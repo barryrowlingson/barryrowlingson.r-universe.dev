@@ -2,5 +2,9 @@
   {
     "package": "voronopie",
     "url": "https://gitlab.com/b-rowlingson/voronopie"
-    }
+    },
+  {
+    "package": "spatialkernel",
+    "url": "https://github.com/barryrowlingson/spatialkernel"
+  }
 ]
