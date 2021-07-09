@@ -3,6 +3,9 @@
     "package": "voronopie",
     "url": "https://gitlab.com/b-rowlingson/voronopie"
     },
+  { "package": "abusethis",
+   "url": "https://gitlab.com/b-rowlingson/abusethis"
+  },
   {
     "package": "spatialkernel",
     "url": "https://github.com/barryrowlingson/spatialkernel"
