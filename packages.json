@@ -9,5 +9,9 @@
   {
     "package": "spatialkernel",
     "url": "https://github.com/barryrowlingson/spatialkernel"
+  },
+  {
+    "package": "splancs",
+    "url": "https://github.com/barryrowlingson/splancs"
   }
 ]
