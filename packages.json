@@ -13,5 +13,9 @@
   {
     "package": "splancs",
     "url": "https://github.com/barryrowlingson/splancs"
+  },
+  {
+    "package": "swarmr",
+    "url": "https://gitlab.com/b-rowlingson/swarmr"
   }
 ]
