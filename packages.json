@@ -13,6 +13,10 @@
   {
     "package": "splancs",
     "url": "https://github.com/barryrowlingson/splancs"
+  },  
+  {
+    "package": "sidclosepairs",
+    "url": "https://gitlab.com/b-rowlingson/sidclosepairs"
   },
   {
     "package": "swarmr",
