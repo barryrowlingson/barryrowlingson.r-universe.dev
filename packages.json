@@ -19,6 +19,10 @@
     "url": "https://gitlab.com/b-rowlingson/sidclosepairs"
   },
   {
+    "package": "geosample",
+    "url": "https://gitlab.com/b-rowlingson/geosample"
+  },
+  {
     "package": "swarmr",
     "url": "https://gitlab.com/b-rowlingson/swarmr"
   }
