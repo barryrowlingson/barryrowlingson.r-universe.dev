@@ -3,6 +3,10 @@
     "package": "voronopie",
     "url": "https://gitlab.com/b-rowlingson/voronopie"
     },
+  { 
+    "package": "stipple",
+    "url": "https://gitlab.com/b-rowlingson/stipple"
+  },
   { "package": "abusethis",
    "url": "https://gitlab.com/b-rowlingson/abusethis"
   },
