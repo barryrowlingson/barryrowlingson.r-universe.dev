@@ -1,4 +1,7 @@
-[
+[  {
+    "package": "openww",
+    "url": "https://gitlab.com/b-rowlingson/openww"
+    },
   {
     "package": "voronopie",
     "url": "https://gitlab.com/b-rowlingson/voronopie"
