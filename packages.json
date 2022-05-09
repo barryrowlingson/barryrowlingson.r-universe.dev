@@ -1,4 +1,8 @@
 [  {
+    "package": "RandomFields",
+    "url": "https://gitlab.com/b-rowlingson/randomfields"
+   },
+   {
     "package": "openww",
     "url": "https://gitlab.com/b-rowlingson/openww"
     },
