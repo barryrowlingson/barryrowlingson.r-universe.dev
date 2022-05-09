@@ -1,4 +1,9 @@
-[  {
+[ 
+    { 
+   "package": "geoR",
+   "url": "https://gitlab.com/b-rowlingson/geor"
+    },
+    {
     "package": "RandomFields",
     "url": "https://gitlab.com/b-rowlingson/randomfields"
    },
