@@ -1,4 +1,8 @@
 [ 
+    {
+        package:"dippR",
+        "url": "https://codeberg.org/browlingson/dippR"
+    },
     { 
    "package": "geoR",
    "url": "https://gitlab.com/b-rowlingson/geor"
