@@ -1,5 +1,9 @@
 [ 
     {
+        "package":"dbat",
+        "url":"https://codeberg.org/browlingson/dbat"
+    },
+    {
         "package":"dippR",
         "url": "https://codeberg.org/browlingson/dippR"
     },
